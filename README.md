@@ -1,15 +1,11 @@
 # Sample react app
 
-> Simple application with React js.
+Simple application with React js.
 
-## Packages & Libraries
-
-* [react-router-dom](https://www.npmjs.com/package/react-router-dom)
-
-## Start the app
+## Instructions
 
 The process to start is simple, 
-1. Make sure you have git installed on your computer: [how to](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+1. Make sure you have [git installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer
 2. Make sure you have [Node js](https://nodejs.org/en/) installed in your computer. 
 3. Then load the repository on your computer and run the application by using the following sets of commands
 

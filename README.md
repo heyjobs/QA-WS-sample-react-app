@@ -33,7 +33,7 @@ or if you prefer to use yarn:
 
 4. The start command should run the local server and automatically open the `http://localhost:3000/` where you can checkout the app which only has 3 main features/pages.
 
-5. You are expected to write at least 6 test cases for these features. here is a [guide to qriting effective test cases](https://www.softwaretestinghelp.com/how-to-write-effective-test-cases-test-cases-procedures-and-definitions/)
+5. You are expected to write at least 6 test cases for these features. here is a [guide to writing effective test cases](https://www.softwaretestinghelp.com/how-to-write-effective-test-cases-test-cases-procedures-and-definitions/)
 
 ## License
 

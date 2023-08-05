@@ -7,7 +7,7 @@ Simple application with React js.
 The process to start is simple, 
 1. Make sure you have [git installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer
 2. Make sure you have [Node js](https://nodejs.org/en/) installed in your computer. 
-3. Then load the repository on your computer and run the application by using the following sets of commands
+3. Then [load this repository on your computer](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository) and run the application by using the following sets of commands
 
 ```bash
     git clone [Repository]

@@ -1,6 +1,6 @@
 # Sample react app
 
-Simple application built with React js; Used bor the QA working student test.
+Simple application built with React js; Used for the QA working student test.
 
 ## Instructions for solving the problem
 1. Make sure you have [git installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer
